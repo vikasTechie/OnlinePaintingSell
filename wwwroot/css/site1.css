@@ -1,0 +1,74 @@
+﻿
+/*
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+input[type=submit] {
+    width: auto;
+}
+input, textarea {
+    font-size: 18px;
+    width: 200px;
+}
+
+label {
+    font-size: 18px;
+}
+#TheForm{
+    background-color:#aaa8a8;
+}
+ #TheForm input[type=submit]{
+    background-color:green;
+    color:white;
+}
+.ProductProp{
+    font-size:small;
+}*/
+
+.ProductInfo1{
+    border:1px solid grey;
+    display:inline-block;
+    padding:8px 2px;
+    margin:2px;
+    width:1200px;
+    background-color:lightgreen;
+    border-radius:5px;
+}
+ .ProductInfo1 img {
+        margin: 3px;
+        float:left;
+        border: 1px solid black;
+        max-width: 250px;
+}
+
+
+/*#LoginToggle {
+    cursor: pointer;
+}
+
+
+.PopupForm {
+    border: 1px black inset;
+    padding:5px;
+    display:inline-block;
+}
+ .PopupForm input{
+     width:200px;
+ }
+ .PopupForm label{
+     width:150px;
+     display:inline-block;
+ }
+ .PopupForm input[type=checkbox], .PopupForm input[type=submit] {
+        width: auto;
+    }
+menu li{
+display:inline;
+
+}
+ menu li::after{
+     content:' |';
+ }
+ menu li:last-of-type::after{
+     content:"";
+ }*/

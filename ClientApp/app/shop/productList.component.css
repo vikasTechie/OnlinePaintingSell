@@ -1,0 +1,10 @@
+﻿.ProductInfo img{
+    max-width:100px;
+    float:left;
+    margin:02px;
+    border:solid 1px black;
+}
+.ProductInfo .productName{
+    font-size:large;
+    font-weight:bold;
+}
