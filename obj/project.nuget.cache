@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4VHkkCAxPN8vtQXTd4ZMwz9cNbDj9EKzxEMoO+9IvNgSkmHZRWHo953baigqB/ex5IRmaNG/jC/ysbsdaL7IiA==",
+  "dgSpecHash": "L0HA2iG3HW7RchSl5udBRtme8wrE9ZR5vIZRS/4Y4u0Z0bwoFfTYvqtKL+gQszXYTt++H0hHNVeHLj52RHU2lQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vikas\\source\\Example\\DutchTreat\\OnlineSellPaintings.csproj",
+  "projectFilePath": "C:\\Users\\vikas\\source\\Example\\OnlinePaintingSell\\OnlineSellPaintings.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vikas\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
     "C:\\Users\\vikas\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",

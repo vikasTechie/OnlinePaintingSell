@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vikas\\source\\Example\\DutchTreat\\OnlineSellPaintings.csproj": {}
+    "C:\\Users\\vikas\\source\\Example\\OnlinePaintingSell\\OnlineSellPaintings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vikas\\source\\Example\\DutchTreat\\OnlineSellPaintings.csproj": {
+    "C:\\Users\\vikas\\source\\Example\\OnlinePaintingSell\\OnlineSellPaintings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vikas\\source\\Example\\DutchTreat\\OnlineSellPaintings.csproj",
+        "projectUniqueName": "C:\\Users\\vikas\\source\\Example\\OnlinePaintingSell\\OnlineSellPaintings.csproj",
         "projectName": "OnlineSellPaintings",
-        "projectPath": "C:\\Users\\vikas\\source\\Example\\DutchTreat\\OnlineSellPaintings.csproj",
+        "projectPath": "C:\\Users\\vikas\\source\\Example\\OnlinePaintingSell\\OnlineSellPaintings.csproj",
         "packagesPath": "C:\\Users\\vikas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vikas\\source\\Example\\DutchTreat\\obj\\",
+        "outputPath": "C:\\Users\\vikas\\source\\Example\\OnlinePaintingSell\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

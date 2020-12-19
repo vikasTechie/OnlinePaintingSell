@@ -26,14 +26,14 @@ namespace DutchTreat.Data
         public async Task SeedAsync()
         {
             _ctx.Database.EnsureCreated();
-            var user = await userManager.FindByEmailAsync("vikasjat511991@gmail.com");
+            var user = await userManager.FindByEmailAsync("vikchh00@gmail.com");
             if(user==null)
             {
                 user = new StoreUser()
                 {
                     FirstName = "vikas",
                     LastName = "chhikara",
-                    Email = "vikasjat511991@gmail.com",
+                    Email = "vikchh00@gmail.com",
                     UserName= "vikas123"
 
                 };
